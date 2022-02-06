@@ -5,7 +5,7 @@ import {
   Loader,
   Services,
   Transactions,
-} from "./Components/index";
+} from "./components/index";
 const App = () => {
   return (
     <div className="min-h-screen">
